@@ -54,3 +54,9 @@ npm WARN     node_modules/react-moralis
 
 # Error that comes
 ![Alt text](image.png)
+
+
+# Solved with the next packages
+```
+npm install @walletconnect/ethereum-provider @web3modal/standalone
+```
